@@ -1,0 +1,17 @@
+.judul {
+  color: blue;
+}
+.Grub{
+  margin-bottom:20px;
+}
+
+label{
+  display: block;
+  margin-bottom:5px;
+  font-size: 50px;
+  color:blue;
+  padding-bottom: 220px;
+}
+.forgetten{
+  color: #0048FF;
+}
